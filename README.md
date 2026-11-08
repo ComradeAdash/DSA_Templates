@@ -34,7 +34,7 @@ from collections import deque
 ```
 
 ```python
-list = dequeue[start]
+list = deque[start]
 ```
 
 ### .methods
